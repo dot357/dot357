@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Emre it is nice to meet you!
+I used to be a full-stack developer. But i shifted my focus to 🎯 Front-end development mainly VUE.js and vanilla JS lately.
+
+Check out my profiles and let's conntect if posible. Why not?
+www.linkedin.com/in/emrecaneskimez
+
+
 ![⚡](https://www.codewars.com/users/dot357/badges/small)
 <br> 
 [You can checkout my codewars profile ⚡](https://www.codewars.com/users/dot357/)
