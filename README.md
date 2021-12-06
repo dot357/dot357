@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ![⚡](https://www.codewars.com/users/dot357/badges/small)
-[My code wars profile 💬](https://www.codewars.com/users/dot357/)
+<br> 
+[You can checkout my codewars profile ⚡](https://www.codewars.com/users/dot357/)
 
 <!--
 **dot357/dot357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
