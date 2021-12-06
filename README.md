@@ -3,10 +3,11 @@
 My name is Emre it is nice to meet you!
 I used to be a full-stack developer. But i shifted my focus to 🎯 Front-end development mainly VUE.js and vanilla JS lately.
 
-Check out my profiles and let's conntect if posible. Why not?
+Check out my profiles and let's conntect if posible. Why not? 
+<br >
 www.linkedin.com/in/emrecaneskimez
 
-![⚡](https://github.com/dot357/dot357/blob/a79c49a452e5277e17e81b18fc63ff745044de79/linkedin.png)
+
 
 
 ![⚡](https://www.codewars.com/users/dot357/badges/small)
