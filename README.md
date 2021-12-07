@@ -12,7 +12,8 @@ www.linkedin.com/in/emrecaneskimez
 
 ![⚡](https://www.codewars.com/users/dot357/badges/small)
 <br> 
-[You can checkout my codewars profile ⚡](https://www.codewars.com/users/dot357/)
+[CodeWars ⚡](https://www.codewars.com/users/dot357/)
+<br>
 [Codepen ✒️ ](https://codepen.io/-357)
 
 <!--
