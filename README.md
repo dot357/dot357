@@ -5,7 +5,7 @@ I used to be a full-stack developer. But i shifted my focus to 🎯 Front-end de
 
 Check out my profiles and let's conntect if posible. Why not? 
 <br >
-www.linkedin.com/in/emrecaneskimez
+[LinkedIn 👔](www.linkedin.com/in/emrecaneskimez)
 
 
 
@@ -15,6 +15,7 @@ www.linkedin.com/in/emrecaneskimez
 [CodeWars ⚡](https://www.codewars.com/users/dot357/)
 <br>
 [Codepen ✒️ ](https://codepen.io/-357)
+
 
 <!--
 **dot357/dot357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
