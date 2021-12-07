@@ -20,7 +20,9 @@ Check out my profiles and let's conntect if posible. Why not?
 <br>
 
 ## Pet projects 👽
-[YURLINK Project Site WIP](https://yurlink.com) | [UI Protoype](#)
+[YURLINK Project Site WIP](https://yurlink.com) | [UI Protoype](#) <br>
+[Web3 GUNdb Chat WIP](https://emrecaneskimez.com)
+
 
 
 
