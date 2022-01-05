@@ -20,6 +20,8 @@ Check out my profiles and let's conntect if posible. Why not?
 <br>
 
 ## Pet projects 👽
+![yurlink.com](https://yurlink.com/yurlinklogoappstore.png)
+<br>
 [YURLINK Project Site WIP](https://yurlink.com) | [UI Protoype](https://yurlink.com/8xxfe) | Almost done will be released in *03.01.2022* <br>
 [F.I.S. (freeinvoice.software) Project Site WIP](https://freeinvoice.software) | [UI Protoype](https://yurlink.com/158by) <br>
 [Web3 GUNdb Chat WIP](https://emrecaneskimez.com)
