@@ -1,18 +1,21 @@
-### Hi there 👋
-
+## Hey 👋, This is dot357
 My name is Emre it is nice to meet you!
 I used to be a full-stack developer. But i shifted my focus to 🎯 Front-end development mainly VUE.js and vanilla JS lately.
 
 Check out my profiles and let's conntect if posible. Why not? 
-<br >
-[LinkedIn 👔](www.linkedin.com/in/emrecaneskimez)
+
+[![Gmail Badge](https://img.shields.io/badge/-emrecaneskimez@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emrecaneskimez@outlook.com)](mailto:emrecaneskimez@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-emrecaneskimez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrecaneskimez/)](https://www.linkedin.com/in/emrecaneskimez/) [![Github Badge](https://img.shields.io/badge/-dot357-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dot357/)](https://www.github.com/dot357/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/emrecaneskimez//)](https://www.linkedin.com/in/emrecaneskimez//)  [CodeWars ⚡](https://www.codewars.com/users/dot357/)
+
+
+
 
 
 
 
 ![⚡](https://www.codewars.com/users/dot357/badges/small)
 <br> 
-[CodeWars ⚡](https://www.codewars.com/users/dot357/)
+
 <br>
 [Codepen ✒️ ](https://codepen.io/-357)
 
@@ -33,9 +36,7 @@ Check out my profiles and let's conntect if posible. Why not?
 
 
 
-## Hey 👋, This is dot357
-[![Gmail Badge](https://img.shields.io/badge/-emrecaneskimez@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emrecaneskimez@outlook.com)](mailto:emrecaneskimez@outlook.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-emrecaneskimez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrecaneskimez/)](https://www.linkedin.com/in/emrecaneskimez/) [![Github Badge](https://img.shields.io/badge/-dot357-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dot357/)](https://www.github.com/dot357/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/emrecaneskimez//)](https://www.linkedin.com/in/emrecaneskimez//) 
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=dot357 alt=dot357 /> </p>
 
