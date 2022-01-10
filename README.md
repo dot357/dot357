@@ -29,6 +29,8 @@ Check out my profiles and let's conntect if posible. Why not?
 [F.I.S. (freeinvoice.software) Project Site WIP](https://freeinvoice.software) | [UI Protoype](https://yurlink.com/158by) <br>
 [Web3 GUNdb Chat WIP](https://emrecaneskimez.com)
 
+[3D Version of my self](dot357.github.io)
+
 
 
 
