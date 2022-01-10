@@ -20,9 +20,9 @@ Check out my profiles and let's conntect if posible. Why not?
 <br>
 
 ## Pet projects 👽
-<div style="display:flex;flex-direction:row;align-items:center;">
+<div style="display:flex;flex-direction:row;align-items:center;margin-bottom:25px;">
 <img src="https://yurlink.com/yurlinklogoappstore.png" width="150">
-<img src="https://raw.githubusercontent.com/dot357/logos/main/fislogo.png" width="150">
+<img src="https://raw.githubusercontent.com/dot357/logos/main/fislogo.png" width="125">
 </div>
 
 [YURLINK Project Site WIP](https://yurlink.com) | [UI Protoype](https://yurlink.com/8xxfe) | Almost done will be released in *03.01.2022* <br>
