@@ -7,12 +7,6 @@ Check out my profiles and let's conntect if posible. Why not?
 [![Gmail Badge](https://img.shields.io/badge/-emrecaneskimez@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emrecaneskimez@outlook.com)](mailto:emrecaneskimez@outlook.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-emrecaneskimez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrecaneskimez/)](https://www.linkedin.com/in/emrecaneskimez/) [![Github Badge](https://img.shields.io/badge/-dot357-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dot357/)](https://www.github.com/dot357/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/emrecaneskimez//)](https://www.linkedin.com/in/emrecaneskimez//)  [CodeWars ⚡](https://www.codewars.com/users/dot357/) [Codepen ✒️ ](https://codepen.io/-357)
 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/emrecaneskimez//)]
-
-
-
-
-<br>
 
 ## Pet projects 👽
 <div style="display:flex;flex-direction:row;align-items:center;justify-content:center;margin-bottom:25px;">
