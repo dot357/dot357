@@ -33,6 +33,18 @@ Check out my profiles and let's conntect if posible. Why not?
 
 
 
+## Hey 👋, This is dot357
+[![Gmail Badge](https://img.shields.io/badge/-emrecaneskimez@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:emrecaneskimez@outlook.com)](mailto:emrecaneskimez@outlook.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-emrecaneskimez-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrecaneskimez/)](https://www.linkedin.com/in/emrecaneskimez/) [![Github Badge](https://img.shields.io/badge/-dot357-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dot357/)](https://www.github.com/dot357/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://www.linkedin.com/in/emrecaneskimez//)](https://www.linkedin.com/in/emrecaneskimez//) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=dot357 alt=dot357 /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=dot357&show_icons=true&include_all_commits=true)](https://github.com/dot357/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dot357&layout=compact)](https://github.com/dot357/github-readme-stats)
+
+
+
+
 
 <!--
 **dot357/dot357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
