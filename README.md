@@ -5,7 +5,7 @@ Senior Frontend Developer based in The Netherlands, specializing in JavaScript/T
 ## 🛠 Technical Expertise
 
 - Frontend: Vue.js, React, Astro JS, JSDOC, Ionic, React Native, TypeScript, Advanced CSS/SCSS, Tailwind
-- State Management & Testing: Vuex/Pinia, Cypress, Vitest, Jest
+- State Management & Testing: Vuex/Pinia, Redux, MobX, Cypress, Vitest, Jest
 - Performance & Architecture: SSR, SPA, Static Site Generation (JAM stack)
 - Tools & Platforms: Vite, Webpack, Docker, CI/CD
 
