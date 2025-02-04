@@ -12,7 +12,7 @@ Senior Frontend Developer based in The Netherlands, specializing in JavaScript/T
 ## 🔍 Featured Project
 
 ### [Simpstore](https://github.com/dot357/simpstore)
-A modern e-commerce solution built with cutting-edge technologies. This project showcases my expertise in frontend development and best practices in web application architecture.
+A lightweight and framework-agnostic state management library inspired by Pinia. This TypeScript-based library provides an elegant solution for managing application state in small to medium-scale projects.
 
 ## 🤝 Let's Connect
 
