@@ -1,6 +1,6 @@
 # Hey 👋, I'm Emre Can Eskimez
 
-Senior Frontend Developer based in The Netherlands, specializing in JavaScript/TypeScript development with a focus on Vue.js and React. Currently working at ThreatFabric, where I maintain and develop JS-based SDKs and create data-intensive, customer-facing dashboards.
+Senior Frontend Developer based in The Netherlands, specializing in JavaScript/TypeScript development with a focus on Vue.js and React.
 
 ## 🛠 Technical Expertise
 
